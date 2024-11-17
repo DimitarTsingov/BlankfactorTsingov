@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\bin\Debug\net8.0\TsingovAutomation.exe
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\bin\Debug\net8.0\TsingovAutomation.deps.json
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\bin\Debug\net8.0\TsingovAutomation.runtimeconfig.json
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\bin\Debug\net8.0\TsingovAutomation.dll
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\bin\Debug\net8.0\TsingovAutomation.pdb
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\obj\Debug\net8.0\TsingovAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\obj\Debug\net8.0\TsingovAutomation.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\obj\Debug\net8.0\TsingovAutomation.AssemblyInfo.cs
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\obj\Debug\net8.0\TsingovAutomation.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\obj\Debug\net8.0\TsingovAutomation.dll
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\obj\Debug\net8.0\refint\TsingovAutomation.dll
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\obj\Debug\net8.0\TsingovAutomation.pdb
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\obj\Debug\net8.0\TsingovAutomation.genruntimeconfig.cache
+C:\Users\dimit\source\repos\TsingovAutomation\TsingovAutomation\obj\Debug\net8.0\ref\TsingovAutomation.dll
