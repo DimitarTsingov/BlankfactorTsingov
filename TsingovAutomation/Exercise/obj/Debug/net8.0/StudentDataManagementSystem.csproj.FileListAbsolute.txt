@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\bin\Debug\net8.0\StudentDataManagementSystem.exe
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\bin\Debug\net8.0\StudentDataManagementSystem.deps.json
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\bin\Debug\net8.0\StudentDataManagementSystem.runtimeconfig.json
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\bin\Debug\net8.0\StudentDataManagementSystem.dll
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\bin\Debug\net8.0\StudentDataManagementSystem.pdb
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\obj\Debug\net8.0\StudentDataManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\obj\Debug\net8.0\StudentDataManagementSystem.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\obj\Debug\net8.0\StudentDataManagementSystem.AssemblyInfo.cs
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\obj\Debug\net8.0\StudentDataManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\obj\Debug\net8.0\StudentDataManagementSystem.dll
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\obj\Debug\net8.0\refint\StudentDataManagementSystem.dll
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\obj\Debug\net8.0\StudentDataManagementSystem.pdb
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\obj\Debug\net8.0\StudentDataManagementSystem.genruntimeconfig.cache
+C:\Users\dimit\source\repos\TsingovAutomation\Exercise\obj\Debug\net8.0\ref\StudentDataManagementSystem.dll
