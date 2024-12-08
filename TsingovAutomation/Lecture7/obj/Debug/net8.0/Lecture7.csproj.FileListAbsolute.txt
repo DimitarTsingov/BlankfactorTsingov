@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\bin\Debug\net8.0\Lecture7.exe
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\bin\Debug\net8.0\Lecture7.deps.json
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\bin\Debug\net8.0\Lecture7.runtimeconfig.json
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\bin\Debug\net8.0\Lecture7.dll
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\bin\Debug\net8.0\Lecture7.pdb
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\obj\Debug\net8.0\Lecture7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\obj\Debug\net8.0\Lecture7.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\obj\Debug\net8.0\Lecture7.AssemblyInfo.cs
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\obj\Debug\net8.0\Lecture7.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\obj\Debug\net8.0\Lecture7.dll
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\obj\Debug\net8.0\refint\Lecture7.dll
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\obj\Debug\net8.0\Lecture7.pdb
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\obj\Debug\net8.0\Lecture7.genruntimeconfig.cache
+C:\Users\dimit\source\repos\TsingovAutomation\Lecture7\obj\Debug\net8.0\ref\Lecture7.dll
