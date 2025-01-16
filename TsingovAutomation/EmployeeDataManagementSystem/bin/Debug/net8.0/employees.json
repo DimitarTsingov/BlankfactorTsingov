@@ -1,0 +1,15 @@
+[
+  {
+    "FullName": "Mitko Tsingov",
+    "Country": {
+      "Name": {
+        "Common": "Ghana",
+        "Official": "Republic of Ghana"
+      }
+    },
+    "AssignedDepartments": [
+      "QA"
+    ],
+    "Salary": 10000.0
+  }
+]
